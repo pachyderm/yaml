@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"gopkg.in/yaml.v3"
+	"gopkg.in/pachyderm/yaml.v3"
 )
 
 // An example showing how to unmarshal embedded
